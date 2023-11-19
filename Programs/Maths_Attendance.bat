@@ -1,0 +1,1 @@
+"C:\Attendance Automation\Python38\python.exe" "C:\Attendance Automation\Programs\Maths_Attendance.py"

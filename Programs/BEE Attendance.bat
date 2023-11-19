@@ -1,0 +1,1 @@
+"C:\Attendance Automation\Python38\python.exe" "C:\Attendance Automation\Programs\BEE_Attendance.py"
